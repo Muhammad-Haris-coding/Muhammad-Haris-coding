@@ -20,5 +20,5 @@ I build practical computer vision systems with Python and PyTorch — from datas
   https://github.com/Muhammad-Haris-coding/depth-anything-v2-inference
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/muhammad-haris35
+- LinkedIn: https://www.linkedin.com/in/muhammadharisyousafzai
 - Open to paid Computer Vision / ML internships, internships with a pathway to full-time roles, junior positions, and paid contract or project-based work.
